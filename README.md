@@ -17,5 +17,6 @@ Oferece serviços de nuvem econômicos e altamente seguros, com flexibilidade h�
 - Visão de IA do Azure.
 - Pesquisa de IA do Azure.
 - Serviço de Bot de IA do Azure.
+- e Etc...
 
 😊💁‍♂️
